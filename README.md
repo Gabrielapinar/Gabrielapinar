@@ -73,13 +73,17 @@ Aqui você encontrará meus projetos, estudos e experiências em programação, 
 <p>
   <img 
     align="left" 
+    alt="GitHub Stats" 
     height="200" 
-    src="https://streak-stats.demolab.com?user=Gabrielapinar&theme=tokyonight" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Gabrielapinar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabrielapinar&layout=compact&theme=tokyonight" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielapinar&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
