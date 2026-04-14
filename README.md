@@ -80,6 +80,6 @@ Aqui você encontrará meus projetos, estudos e experiências em programação, 
   <img 
     align="left" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielapinar&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabrielapinar&layout=compact&theme=tokyonight" 
   />
 </p>
