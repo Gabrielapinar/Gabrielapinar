@@ -74,7 +74,7 @@ Aqui você encontrará meus projetos, estudos e experiências em programação, 
   <img 
     align="left" 
     height="200" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Gabrielapinar&theme=tokyonight&locale=pt-br" 
+    src="https://streak-stats.demolab.com?user=Gabrielapinar&theme=tokyonight" 
   />
 
   <img 
